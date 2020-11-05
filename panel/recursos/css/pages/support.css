@@ -1,0 +1,14 @@
+.support-block {
+    float: left;
+
+    width: 47%;
+    margin: 0 3% 3em 0;
+}
+
+.support-block h3 {
+    margin-bottom: 1em;
+}
+
+.support-block li {
+    margin-bottom: .6em;
+}
